@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "The Friend Finder app will take in the results from a survey and compare it with the answers from other users. The user that has the closest score is considered a match. The app will then display the user's name and picture that has the best overall match.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tashma2007/FriendFinder.git"
+  },
+  "author": "Natasha Henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tashma2007/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/tashma2007/FriendFinder#readme"
+}
